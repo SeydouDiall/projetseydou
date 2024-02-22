@@ -1,0 +1,111 @@
+
+
+
+header{
+    background:#bedded ;
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+nav{
+    background-color: #bedded;
+    float:inline-end;
+    height: auto;
+    margin: auto;
+}
+li :hover{
+    background-color: rgb(7, 147, 147);
+    
+}
+.sect1{
+    background-color: #bedded;
+}
+.s1img{
+    background-color:#778899;
+    margin: 0 auto;
+    width: 30%;
+    height: 50%;
+    border-radius: 25%;
+    margin-top: 2%;
+   
+}
+.bt{
+        
+   display: flex;
+    width: auto;
+    height: auto;
+    margin: auto;
+    
+
+}
+.sect2{
+    background-color:white;
+   
+}
+
+.sect3{
+    background: #bedded;
+   
+}
+
+.im6{
+    display: flex;
+}
+
+
+
+
+.sect4{
+    
+    background:white;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 2%;
+}
+.sect5{
+    
+    background: white;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+.nano{
+    margin: 0 auto;
+    width: 50%;
+}
+
+
+.sect6{
+    width: 100%;
+    margin: 0 auto;
+    background-color: #bedded;
+
+}
+.icone{
+    display: flex;
+    margin: 0 auto;
+
+}
+
+h2{
+    color: navy;
+    margin-left: 5px;
+}
+
+.p1{
+    color: rgb(67, 153, 251);
+    width: 60%;
+    margin: 0 auto;
+}
+
+h4{
+    color:navy ;
+    margin-left: 5px;
+
+}
+h5{
+    color:navy ;
+    margin-left: 5px;
+
+}
